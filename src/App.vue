@@ -1,6 +1,7 @@
 <template>
 <header>
-<h1>skills test</h1>
+<h1>Taggable Search Demo</h1>
+<h2>built with vue.js 3 using the composition API</h2>
 <hr>
 </header>
 <searchform />
